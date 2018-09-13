@@ -1,5 +1,4 @@
 # Lazymux
-Hi Friends Now Iam Show how to install Lazymux
 apt update
 pkg install python2
 pkg install git
@@ -9,4 +8,3 @@ ls
 cd Lazymux
 ls
 python2 lazymux.py
-
